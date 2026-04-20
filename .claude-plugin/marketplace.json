@@ -1,0 +1,19 @@
+{
+  "name": "no-sign-commits",
+  "description": "Standing instruction to always use --no-gpg-sign with every git commit command",
+  "owner": {
+    "name": "Oliver Ramsland Jahren"
+  },
+  "plugins": [
+    {
+      "name": "no-sign-commits",
+      "description": "Standing instruction to always use --no-gpg-sign with every git commit command",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "Oliver Ramsland Jahren"
+      },
+      "homepage": "https://github.com/orjahren/skills-no-sign-commits"
+    }
+  ]
+}
