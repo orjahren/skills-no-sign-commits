@@ -1,6 +1,7 @@
 ---
 name: no-sign-commits
 description: Use when running any git commit command - this is a standing user instruction that always applies
+disable-model-invocation: true
 ---
 
 # No-Sign Commits
